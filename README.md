@@ -128,4 +128,4 @@ This project is licensed under the MIT License.
 
 ---
 
-This README file provides an in-depth explanation of the JWT token creation and authentication process in your Spring Boot application. You can customize it further to fit your project-specific requirements.
+This README file provides an in-depth explanation of the JWT token creation and authentication process in your Spring Boot application.
